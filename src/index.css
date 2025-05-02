@@ -142,8 +142,8 @@ nav a:hover{
   font-weight:1000;
   font-size: 58px;
   background: linear-gradient(to right, rgb(65, 4, 130), rgb(255, 0, 0));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
   
 }
 .card p{
