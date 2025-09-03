@@ -1,4 +1,3 @@
-import profilePic from "../assets/images/itachi-card.jfif"
 import profilePic11 from "../assets/images/headers/aea4e075-d170-4fc2-b9b9-07993fa7c884.jfif"
 import profilePic22 from "../assets/images/headers/bc3d3aac-a067-4fb7-bfea-0a5d0fae5495.jfif"
 import profilePic33 from "../assets/images/headers/da256543-acae-48c6-b680-3ecd624647f8.jfif"
